@@ -2,7 +2,7 @@
   "name": "AI Rewriter Engine Plugin",
   "description": "Rewrite crawled drafts with multiple AI providers, ensuring originality and clarity, with admin review and notifications.",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "Certsoftt a.k.a Ubsimple",
   "active": false,
   "main": "src/Http/Controllers/AIRewriterController.php",
   "providers": [
